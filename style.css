@@ -1,0 +1,14 @@
+.background-img{
+    height: 400px;
+    width: 400px;
+    background-image: url("https: //th.bing.com/th/id/R.9b81663a3934071f8de09681cec0684e?rik=DEV7m%2bUbPpmL2A&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fCool-Nature-Background-Images-4523x2590.jpg&ehk=XxAKNdbLqeV84jakVaOYrmZWai83%2bRlxqGS7WF2x2%2bo%3d&risl=1&pid=ImgRaw&r=0"),url("capture_20240618214526800.bmp");
+    background-repeat:no-repeat,no-repeat;
+    background-size: 300px;
+        width: 300px;
+        height: 300px;
+        border: 2px solid;
+        text-shadow: tan;
+        font-size: 16px;
+        display:flex;
+        flex-wrap: wrap-reverse;
+}
